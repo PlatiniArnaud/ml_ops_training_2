@@ -1,0 +1,6 @@
+[I 240909 14:46:21 flask_app:11] Flask app started.
+[I 240909 14:46:23 flask_app:11] Flask app started.
+[I 240909 15:01:50 flask_app:32]  A request was made at 2024-09-09 15:01:50 with an INPUT DATA {'age': 25, 'estimated_salary': 500000} and the response was Likely to prurchase.
+[I 240909 15:11:10 flask_app:32]  A request was made at 2024-09-09 15:11:10 with an INPUT DATA {'age': 25, 'estimated_salary': 50000} and the response was Not likely to purchase.
+[I 240909 15:11:19 flask_app:32]  A request was made at 2024-09-09 15:11:19 with an INPUT DATA {'age': 45, 'estimated_salary': 50000} and the response was Likely to prurchase.
+[I 240909 15:11:32 flask_app:32]  A request was made at 2024-09-09 15:11:32 with an INPUT DATA {'age': 45, 'estimated_salary': 500000} and the response was Likely to prurchase.
